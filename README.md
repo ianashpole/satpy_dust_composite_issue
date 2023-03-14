@@ -9,5 +9,5 @@ filename = MYD021KM.A2021237.1925.061.2021238153422.hdf
 1. demonstrating_satpy_dust_composite_imshow_issue.ipynb
   - a walkthrough of the problem
 
-2. conda_env_name
+2. environment.yml
   - information on the conda environment producing the issue
